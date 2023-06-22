@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: rgba(0, 0, 0, 0.925);
+}
+
+
+.nome{
+    color: blue;
+    font-size: 46px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fotoeu{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.foto{
+    width: 275px;
+    height: 275px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.h2{
+    font-size: 40px;
+    color: blanchedalmond;
+}
+
+.h3{
+    color: blanchedalmond;
+    font-size: 40px;
+}
+
+.h4{
+    color: blanchedalmond;
+    font-size: 36px;
+    margin-bottom: 50px;
+}
+
+.sobrepedro{
+    font-size: 32px;
+    color: azure;
+    margin-bottom: 30px;
+    margin-top: 25px;
+}
+
+.curiosidades{
+    color: azure;
+    font-size: 32px;
+    margin-bottom: 30px;
+    margin-top: 25px;
+}
+
+.email{
+    font-size: 22px;
+    color: azure;
+    margin-bottom: 30px;
+    margin-top: 25px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.caixa{
+    text-decoration: none;
+    display: flex;
+    gap: 20px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: auto;
+}
+
+.instagram{
+    text-decoration: none;
+    display:flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+    color: red;
+    width: 75px;
+    height: 35px;
+    background-color:rgba(0, 0, 0, 0.925);
+
+    border: 2px solid rgba(0, 0, 0, 0.925);
+    border-radius: 10px;
+
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.twitter{
+    text-decoration: none;
+    display:flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+    color: red;
+    width: 75px;
+    height: 35px;
+    background-color:rgba(0, 0, 0, 0.925);
+
+    border: 2px solid rgba(0, 0, 0, 0.925);
+    border-radius: 10px;
+
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+}
