@@ -83,7 +83,7 @@ body{
     margin-bottom: auto;
 }
 
-.instagram{
+.links{
     text-decoration: none;
     display:flex;
     align-items: center;
@@ -102,24 +102,6 @@ body{
     justify-content: center;
 }
 
-.twitter{
-    text-decoration: none;
-    display:flex;
-    align-items: center;
-    flex-direction: row;
-    justify-content: center;
-    color: red;
-    width: 75px;
-    height: 35px;
-    background-color:rgba(0, 0, 0, 0.925);
-
-    border: 2px solid rgba(0, 0, 0, 0.925);
-    border-radius: 10px;
-
-    display:flex;
-    align-items: center;
-    justify-content: center;
-}
 
 a{
     text-decoration: none;
